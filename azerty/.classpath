@@ -32,52 +32,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/MyUDF/lib/activation-1.1.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/aopalliance-1.0.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/asm-3.1.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/avro-1.7.4.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/commons-cli-1.2.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/commons-codec-1.11.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/commons-codec-1.4.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/commons-compress-1.4.1.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/commons-io-2.4.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/commons-lang-2.6.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/commons-lang3-3.7.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/commons-logging-1.1.3.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/guava-11.0.2.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/guice-3.0.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/guice-servlet-3.0.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/hadoop-annotations-2.7.3.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/hadoop-mapreduce-client-core-2.7.3.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/hadoop-yarn-api-2.7.3.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/hadoop-yarn-common-2.7.3.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/hive-exec-0.8.1.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jackson-core-asl-1.9.13.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jackson-jaxrs-1.9.13.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jackson-mapper-asl-1.9.13.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jackson-xc-1.9.13.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/java-uuid-generator-3.1.4.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/javax.inject-1.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jaxb-api-2.2.2.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jaxb-impl-2.2.3-1.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jdk.tools-1.7.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jersey-client-1.9.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jersey-core-1.9.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jersey-guice-1.9.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jersey-json-1.9.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jersey-server-1.9.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jettison-1.1.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jetty-util-6.1.26.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/jsr305-1.3.9.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/netty-3.6.2.Final.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/paranamer-2.3.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/protobuf-java-2.5.0.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/servlet-api-2.5.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/slf4j-api-1.7.10.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/slf4j-log4j12-1.7.10.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/snappy-java-1.0.4.1.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/stax-api-1.0-2.jar"/>
-	<classpathentry kind="lib" path="/MyUDF/lib/xz-1.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
