@@ -22,15 +22,53 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="/Allofthem/libs/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/avro-1.7.4.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/commons-compress-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/guice-servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/hadoop-annotations-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/hadoop-mapreduce-client-core-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/hadoop-yarn-api-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/hadoop-yarn-common-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/hive-exec-0.8.1.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jackson-jaxrs-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jackson-xc-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/java-uuid-generator-3.1.4.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jdk.tools-1.7.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jersey-client-1.9.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jersey-core-1.9.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jersey-guice-1.9.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jersey-json-1.9.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jersey-server-1.9.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/netty-3.6.2.Final.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/slf4j-log4j12-1.7.10.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/snappy-java-1.0.4.1.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="/Allofthem/libs/xz-1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
