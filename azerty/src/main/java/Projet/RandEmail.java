@@ -6,7 +6,11 @@ import java.util.regex.Pattern;
 import org.apache.commons.lang3.RandomStringUtils;
 
 public class RandEmail {
+
 	
+  public static void main(String[] args) {
+			evaluate(args[0]);
+		}
 		
   public static String evaluate(String mydata) {
        Pattern pattern = Pattern.compile("^[A-Za-z0-9+_.-]+(@.+)$"); 

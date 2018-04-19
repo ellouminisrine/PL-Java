@@ -9,7 +9,11 @@ import java.nio.LongBuffer;
 
 
 public class RandUiid {
-	
+
+		public static void main(String[] args) {
+			evaluate(args[0]);
+		}
+			
 			
 		public static String evaluate (String id) {
 			

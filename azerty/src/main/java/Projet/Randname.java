@@ -4,8 +4,11 @@ import org.apache.commons.lang3.RandomStringUtils;
 
 
 public class Randname  {
-	
-	
+			
+	public static void main(String[] args) {
+		evaluate(args[0]);
+	}
+		
 		public static String evaluate(String input) {
 			
 			Random rand = new Random();
