@@ -70,5 +70,54 @@
 	<classpathentry kind="lib" path="/Allofthem/libs/stax-api-1.0-2.jar"/>
 	<classpathentry kind="lib" path="/Allofthem/libs/xz-1.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libe/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="libe/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="libe/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="libe/avro-1.7.4.jar"/>
+	<classpathentry kind="lib" path="libe/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="libe/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="libe/commons-compress-1.4.1.jar"/>
+	<classpathentry kind="lib" path="libe/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="libe/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="libe/commons-lang3-3.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="libe/commons-lang3-3.7-sources.jar"/>
+	<classpathentry kind="lib" path="libe/commons-lang3-3.7-test-sources.jar"/>
+	<classpathentry kind="lib" path="libe/commons-lang3-3.7-tests.jar"/>
+	<classpathentry kind="lib" path="libe/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="libe/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="libe/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="libe/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="libe/guice-servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="libe/hadoop-annotations-2.7.3.jar"/>
+	<classpathentry kind="lib" path="libe/hadoop-mapreduce-client-core-2.7.3.jar"/>
+	<classpathentry kind="lib" path="libe/hadoop-yarn-api-2.7.3.jar"/>
+	<classpathentry kind="lib" path="libe/hadoop-yarn-common-2.7.3.jar"/>
+	<classpathentry kind="lib" path="libe/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="libe/jackson-jaxrs-1.9.13.jar"/>
+	<classpathentry kind="lib" path="libe/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="libe/jackson-xc-1.9.13.jar"/>
+	<classpathentry kind="lib" path="libe/java-uuid-generator-3.1.4.jar"/>
+	<classpathentry kind="lib" path="libe/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="libe/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="libe/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="libe/jdk.tools-1.7.jar"/>
+	<classpathentry kind="lib" path="libe/jersey-client-1.9.jar"/>
+	<classpathentry kind="lib" path="libe/jersey-core-1.9.jar"/>
+	<classpathentry kind="lib" path="libe/jersey-guice-1.9.jar"/>
+	<classpathentry kind="lib" path="libe/jersey-json-1.9.jar"/>
+	<classpathentry kind="lib" path="libe/jersey-server-1.9.jar"/>
+	<classpathentry kind="lib" path="libe/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="libe/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="libe/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="libe/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="libe/netty-3.6.2.Final.jar"/>
+	<classpathentry kind="lib" path="libe/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="libe/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="libe/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="libe/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="libe/slf4j-log4j12-1.7.10.jar"/>
+	<classpathentry kind="lib" path="libe/snappy-java-1.0.4.1.jar"/>
+	<classpathentry kind="lib" path="libe/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="libe/xz-1.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
