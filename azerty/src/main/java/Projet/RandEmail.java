@@ -7,10 +7,6 @@ import org.apache.commons.lang3.RandomStringUtils;
 
 public class RandEmail {
 
-	
-  public static void main(String[] args) {
-			evaluate(args[0]);
-		}
 		
   public static String evaluate(String mydata) {
        Pattern pattern = Pattern.compile("^[A-Za-z0-9+_.-]+(@.+)$"); 
@@ -25,5 +21,4 @@ public class RandEmail {
     	String  randomstr = RandomStringUtils.random(n, possibleCaracter);
     
        
-        return (randomstr + matcher.group(1)); 
-    }}
+        return (randomstr + matcher.group(1));}}

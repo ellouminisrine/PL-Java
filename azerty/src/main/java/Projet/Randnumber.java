@@ -4,9 +4,7 @@ public class Randnumber {
 	
 
 		
-		public static void main(String[] args) {
-			evaluate(args[0]);
-		}
+	
 		  public static String evaluate( String number) {	
 	    String upToNCharacters = number.substring(0, Math.min(number.length(),5));
 	    String n = number.substring(5, number.length());
