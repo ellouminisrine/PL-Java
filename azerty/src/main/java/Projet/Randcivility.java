@@ -9,18 +9,19 @@ package Projet;
 
 public class Randcivility {
 	
-   
-     public static String evaluate() {
+	 
+     public static String evaluate(String input) {
 
 
-        int r = (int) (Math.random()*5);
+        int r = (int) (Math.random()*2);
         String name = new String [] {"Mr","Mrs"}[r];
-        return name;
+        return(name);
     }
 
 
+	 }
+
      
-     }
 
 
 
