@@ -119,5 +119,6 @@
 	<classpathentry kind="lib" path="libe/snappy-java-1.0.4.1.jar"/>
 	<classpathentry kind="lib" path="libe/stax-api-1.0-2.jar"/>
 	<classpathentry kind="lib" path="libe/xz-1.0.jar"/>
+	<classpathentry kind="lib" path="libe/hive-exec-0.8.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
