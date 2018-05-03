@@ -1,11 +1,11 @@
 package Hive;
-
 import java.util.Random;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.hadoop.hive.ql.exec.UDF;
+
 
 
 	
