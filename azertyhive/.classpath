@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="LIB/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="LIB/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="LIB/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="LIB/avro-1.7.4.jar"/>
+	<classpathentry kind="lib" path="LIB/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="LIB/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="LIB/commons-compress-1.4.1.jar"/>
+	<classpathentry kind="lib" path="LIB/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="LIB/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="LIB/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="LIB/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="LIB/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="LIB/guice-servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="LIB/hadoop-annotations-2.7.3.jar"/>
+	<classpathentry kind="lib" path="LIB/hadoop-mapreduce-client-core-2.7.3.jar"/>
+	<classpathentry kind="lib" path="LIB/hadoop-yarn-api-2.7.3.jar"/>
+	<classpathentry kind="lib" path="LIB/hadoop-yarn-common-2.7.3.jar"/>
+	<classpathentry kind="lib" path="LIB/hive-exec-0.8.0.jar"/>
+	<classpathentry kind="lib" path="LIB/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="LIB/jackson-jaxrs-1.9.13.jar"/>
+	<classpathentry kind="lib" path="LIB/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="LIB/jackson-xc-1.9.13.jar"/>
+	<classpathentry kind="lib" path="LIB/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="LIB/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="LIB/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="LIB/jdk.tools-1.7.jar"/>
+	<classpathentry kind="lib" path="LIB/jersey-client-1.9.jar"/>
+	<classpathentry kind="lib" path="LIB/jersey-core-1.9.jar"/>
+	<classpathentry kind="lib" path="LIB/jersey-guice-1.9.jar"/>
+	<classpathentry kind="lib" path="LIB/jersey-json-1.9.jar"/>
+	<classpathentry kind="lib" path="LIB/jersey-server-1.9.jar"/>
+	<classpathentry kind="lib" path="LIB/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="LIB/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="LIB/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="LIB/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="LIB/netty-3.6.2.Final.jar"/>
+	<classpathentry kind="lib" path="LIB/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="LIB/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="LIB/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="LIB/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="LIB/slf4j-log4j12-1.7.10.jar"/>
+	<classpathentry kind="lib" path="LIB/snappy-java-1.0.4.1.jar"/>
+	<classpathentry kind="lib" path="LIB/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="LIB/xz-1.0.jar"/>
+	<classpathentry kind="lib" path="LIB/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="LIB/commons-lang3-3.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="LIB/commons-lang3-3.7-sources.jar"/>
+	<classpathentry kind="lib" path="LIB/commons-lang3-3.7-test-sources.jar"/>
+	<classpathentry kind="lib" path="LIB/commons-lang3-3.7-tests.jar"/>
+	<classpathentry kind="lib" path="LIB/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="LIB/azerty-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
