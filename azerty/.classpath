@@ -165,5 +165,6 @@
 	<classpathentry kind="lib" path="/azertyhive/LIB/commons-lang3-3.7.jar"/>
 	<classpathentry kind="lib" path="libe/hive-exec-0.7.1-cdh3u4.jar"/>
 	<classpathentry kind="lib" path="libe/hadoop-core-0.20.2.jar"/>
+	<classpathentry kind="lib" path="libe/MyUDF.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
