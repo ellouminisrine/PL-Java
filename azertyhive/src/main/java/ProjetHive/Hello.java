@@ -7,7 +7,7 @@ public class Hello extends UDF {
 	       return ( evaluate ( "Bonjour"));
 	       }
 	public static String evaluate(String strName) {
-	       return ( strName);
+	       return ( Projet.Randname.evaluate(strName));
 	       }
 
 }
