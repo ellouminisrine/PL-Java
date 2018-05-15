@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.softcomputing</groupId>
   <artifactId>mask</artifactId>
-  <version>1.0.0</version>
+  <version>0.0.1</version>
   <dependencies>
   	<dependency>
   		<groupId>org.apache.commons</groupId>
@@ -19,6 +19,7 @@
 			<groupId>org.apache.hadoop</groupId>
 			<artifactId>hadoop-core</artifactId>
 			<version>1.2.0</version>
+			<scope>provided</scope>
 			
 		</dependency>
 		<!-- Hive -->
@@ -26,11 +27,13 @@
 			<groupId>org.apache.hive</groupId>
 			<artifactId>hive-exec</artifactId>
 			<version>1.2.0</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.hive</groupId>
 			<artifactId>hive-metastore</artifactId>
 			<version>1.2.0</version>
+			<scope>provided</scope>
 		</dependency>
 
 		
