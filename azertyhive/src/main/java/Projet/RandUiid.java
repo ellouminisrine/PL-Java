@@ -12,7 +12,8 @@ public class RandUiid {
 
 						
 		public static String evaluate (String id) {
-			
+		  if ( id == null || id.length() == 0)
+					  return id;
 		  try {
 			  
 		   byte[] bytesOfMessage = id.getBytes("UTF-16LE");

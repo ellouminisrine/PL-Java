@@ -8,7 +8,7 @@ public class Randname  {
 
 		
 		public static String evaluate(String input) {
-			if ( input == null )
+			if ( input == null || input.length() == 0)
 					  return input;
 			Random rand = new Random();
 			int  n = rand.nextInt(20) + 5;

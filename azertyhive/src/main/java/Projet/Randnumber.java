@@ -13,6 +13,8 @@ public class Randnumber {
 		 String number = "0033 7 68 10 20 18";
 		 
 		 System.out.println( "number = " + evaluate( number ) );
+		 number="";
+		 System.out.println( "number = " + evaluate( number ) );
 		 String ip = "192.168.56.167";
 		 System.out.println( "number = " + evaluate( ip, 0 ) );
 	 }
@@ -22,7 +24,7 @@ public class Randnumber {
 	 	}
 	 
 	public static String evaluate(String number, int offset) {
-		if (number == null)
+		if (number == null || number.length() == 0)
 			return number;
 
 		Random rnd = new Random();
